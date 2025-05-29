@@ -32,3 +32,8 @@
     font-family: 'Handlee', cursive;
 }
 
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+
